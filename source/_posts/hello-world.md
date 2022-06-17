@@ -1,9 +1,10 @@
 ---
-title: Hello World
+title: AI 데이터 플랫폼을 활용한 빅데이터 분석 전문가 과정
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start
+강의 필기 모음
+[06.16 강의](https://www.notion.so/6-16-git-e0c066319e804d68b6cc200eea1ef51c)
+[06.17 강의](https://www.notion.so/6-17-a97dbd84d0624c679b702b601d864ca2)
+## 어려워도 포기하지 말고 차근차근 잘 해 보자!!
 
 ### Create a new post
 
