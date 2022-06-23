@@ -3,7 +3,7 @@ title: "노션 6.20 강의(R)"
 output:
   html_document:
     keep_md: true
-date: '2022-06-20'
+date: '2022-06-20 00:00'
 ---
 # 오전강의 (R 벡터, 기본 함수)
 
