@@ -188,3 +188,5 @@ ctrl+V 한 후 source 삭제
 노션을 hexo 블로그에 올리는 법
 
 ![Untitled](/images/6_20_class_note(R)/Untitled%2027.png)
+
+dddd
