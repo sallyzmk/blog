@@ -1,3 +1,10 @@
+---
+title: "구글 코랩(Phython)을 GitHub에 업로드하는 방법"
+output:
+  html_document:
+    keep_md: true
+date: '2022-06-27 01:00'
+---
 # 구글 코랩(Phython)을 GitHub에 업로드하는 방법
 
 ### [GitHub Repository 초기 설정]
