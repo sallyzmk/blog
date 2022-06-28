@@ -1,10 +1,15 @@
 ---
-title: "R을 이용한 공공데이터 분석" 필기
+title: "R을 이용한 공공데이터 분석 필기모음"
 output:
   html_document:
+    toc: true  # 목차 만들기
+    toc_float: true # 목차 만들기
     keep_md: true
-date: '2022-06-28 00:00'
+date: '2022-06-28'
 ---
+
+
+
 [제3장](https://sallyzmk.github.io/2022/06/20/R_3/)
 [제4장](https://sallyzmk.github.io/2022/06/20/R_4/)
 [제6장](https://sallyzmk.github.io/2022/06/21/R_6/)
