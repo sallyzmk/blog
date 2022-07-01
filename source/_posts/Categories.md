@@ -11,5 +11,5 @@ date: "2022-06-16 00:00"
 
 
 - [Python](https://sallyzmk.github.io/2022/06/16/Python_home/)
-- [R](https://sallyzmk.github.io/2022/06/28/R_home/)
+- [R](https://sallyzmk.github.io/2022/06/16/R_home/)
 - [Notion](https://sallyzmk.github.io/2022/06/16/Notion_home/)
