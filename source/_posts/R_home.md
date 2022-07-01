@@ -5,7 +5,7 @@ output:
     toc: true  # 목차 만들기
     toc_float: true # 목차 만들기
     keep_md: true
-date: '2022-06-20 00:00'
+date: '2022-06-16 01:00'
 ---
 
 [제3장](https://sallyzmk.github.io/2022/06/20/R_3/)
