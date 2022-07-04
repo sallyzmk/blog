@@ -1,6 +1,7 @@
 ---
-# title: "혼공머 Chapter 02"
+title: "혼공머 Chapter 02"
 date: '2022-06-30 02:00'
+
 ---
 
 # 0. 자율학습
@@ -163,7 +164,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_19_0.png)
+![png](images/python_2/output_19_0.png)
     
 
 
@@ -431,7 +432,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_50_0.png)
+![png](images/python_2/output_50_0.png)
     
 
 
@@ -455,7 +456,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_53_0.png)
+![png](images/python_2/output_53_0.png)
     
 
 
@@ -474,7 +475,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_55_0.png)
+![png](images/python_2/output_55_0.png)
     
 
 
@@ -524,7 +525,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_60_0.png)
+![png](images/python_2/output_60_0.png)
     
 
 
@@ -543,7 +544,7 @@ plt.show()
 
 
     
-![png](images/python_1/output_61_0.png)
+![png](images/python_2/output_61_0.png)
     
 
 
@@ -611,6 +612,6 @@ plt.show()
 
 
     
-![png](images/python_1/output_68_0.png)
+![png](images/python_2/output_68_0.png)
     
 

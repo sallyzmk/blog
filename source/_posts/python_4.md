@@ -1,5 +1,5 @@
 ---
-# title: "혼공머 Chapter 04"
+title: "혼공머 Chapter 04"
 date: '2022-07-01 01:00'
 ---
 
@@ -912,7 +912,7 @@ plt.show()
 
 
     
-![png](images/python_ 4/output_77_0.png)
+![png](images/python_4/output_77_0.png)
     
 
 

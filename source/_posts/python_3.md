@@ -1,5 +1,5 @@
 ---
-# title: "혼공머 Chapter 03"
+title: "혼공머 Chapter 03"
 date: '2022-06-30 03:00'
 ---
 
@@ -61,7 +61,7 @@ plt.show()
 
 
     
-![png](images/python_2/output_7_0.png)
+![png](images/python_3/output_7_0.png)
     
 
 
@@ -366,7 +366,7 @@ plt.show()
 
 
     
-![png](images/python_2/output_36_1.png)
+![png](images/python_3/output_36_1.png)
     
 
 
@@ -498,7 +498,7 @@ plt.show()
 
 
     
-![png](images/python_2/output_49_0.png)
+![png](images/python_3/output_49_0.png)
     
 
 

@@ -1,5 +1,5 @@
 ---
-# title: "Python 기초문법"
+title: "Python 기초문법"
 date: '2022-06-27 02:00'
 ---
 

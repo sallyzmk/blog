@@ -1,5 +1,5 @@
 ---
-# title: "Python NymPy"
+title: "Python NymPy"
 date: '2022-06-28 01:00'
 ---
 
