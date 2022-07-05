@@ -14,7 +14,7 @@ date: '2022-06-16 00:00'
 - [프로그램 설치](https://sallyzmk.github.io/2022/06/17/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EC%84%A4%EC%B9%98/)
 - [Git 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Git%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
 - [Rtools 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Rtools%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
-- [NumPy 라이브러리 설치방법](https://www.notion.so/NumPy-b76659fce0554312bb6257d5a1b97d5d)
+- [NumPy 라이브러리 설치방법](https://sallyzmk.github.io/2022/06/17/NumPy%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95/)
 - [블로그 만들기](https://sallyzmk.github.io/2022/06/17/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 - [R파일을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/R%ED%8C%8C%EC%9D%BC%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
