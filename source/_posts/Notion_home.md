@@ -15,9 +15,9 @@ date: '2022-06-16 00:00'
 - [Git 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Git%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
 - [Rtools 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Rtools%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
 - [NumPy 라이브러리 설치방법](https://www.notion.so/NumPy-b76659fce0554312bb6257d5a1b97d5d)
-- [블로그 만들기](https://www.notion.so/e35b732f173d4fd4905688de4ccf5ba9)
+- [블로그 만들기](https://sallyzmk.github.io/2022/06/17/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
-- [R파일을 GitHub에 업로드하는 방법](https://www.notion.so/R-GitHub-5bebaa25c5e547d1850935126d05fc0e)
+- [R파일을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/R%ED%8C%8C%EC%9D%BC%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
 - [Notion을 GitHub에 업로드하는 방법](https://www.notion.so/Notion-GitHub-74f10ed31efa41c69ffef4dc2c8ecedf)
 - [구글 코랩(Phython)을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/%EA%B5%AC%EA%B8%80%20%EC%BD%94%EB%9E%A9(Phython)%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
 

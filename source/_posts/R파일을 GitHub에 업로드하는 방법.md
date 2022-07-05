@@ -1,0 +1,145 @@
+---
+title: "R파일을 GitHub에 업로드하는 방법"
+output:
+  html_document:
+    keep_md: true
+date: '2022-06-17 07:00'
+---
+
+# R파일을 GitHub에 업로드하는 방법
+
+## **R을 깃허브에 올리고 싶을 때_1** (생성)
+
+### 1. github에서 저장소 생성 (add a readme file 체크!!)
+
+![Untitled](images/R_file_github_commit/Untitled.png)
+
+### 1.(2) git clone으로 바탕화면에 깃허브 파일 땡겨오기
+
+![Untitled](images/R_file_github_commit/Untitled%201.png)
+
+![Untitled](images/R_file_github_commit/Untitled%202.png)
+
+```
+git clone [https://github.com/sallyzmk/R_lectue.git](https://github.com/sallyzmk/R_lectue.git)
+```
+
+### 2. R실행하기 (생성된 R_lectue 파일을 R로 실행해야됨)
+
+### 3. R 들어가서 create a project 클릭
+
+![Untitled](images/R_file_github_commit/Untitled%203.png)
+
+### 4. existing dirextory 클릭 (directory = 폴더)
+
+![Untitled](images/R_file_github_commit/Untitled%204.png)
+
+![Untitled](images/R_file_github_commit/Untitled%205.png)
+
+### 5. R_lectue 파일 찾기 (파일명 한글 X)
+
+![Untitled](images/R_file_github_commit/Untitled%206.png)
+
+### 6. 셋팅이 됨
+
+![Untitled](images/R_file_github_commit/Untitled%207.png)
+
+### 7. 파일 나누기 (개인 스타일)
+
+![Untitled](images/R_file_github_commit/Untitled%208.png)
+
+### 8. source 파일에 들어가서 > set as working directory 기본 파일 저장 위치(경로) 설정
+
+![Untitled](images/R_file_github_commit/Untitled%209.png)
+
+---
+
+## **R을 깃허브에 올리고 싶을 때_2 (업로드)**
+
+### 1. R에서 source 폴더 안으로 들어가, set as working directory 입력
+
+![Untitled](images/R_file_github_commit/Untitled%2010.png)
+
+### 2. 파일을 R Markdowm 눌러서 마크 다운으로 변환 시키기 (누르면 ~설치할거냐 뜸, 설치하기.)
+
+![Untitled](images/R_file_github_commit/Untitled%2011.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2012.png)
+
+presentation : 프레젠테이션으로도 만들 수 있음
+
+shiny : 데스크탑 같은거 블로그 처럼? (확실X)
+
+pdf, word : 이런건 또 무언가를 설치해야됨
+
+### 3. title 변경하기 ,
+
+```
+title: "Day-1 Visualization"
+output:
+  html_document:
+    keep_md: true
+date: '2022-06-17'
+```
+
+![Untitled](images/R_file_github_commit/Untitled%2013.png)
+
+### 4. 저장하기, 이름 같아도 Rmd라 생성가능
+
+![Untitled](images/R_file_github_commit/Untitled%2014.png)
+
+생성된 모습
+
+![Untitled](images/R_file_github_commit/Untitled%2015.png)
+
+### 5. knit 누르면 새로운 창이 열림
+
+![Untitled](images/R_file_github_commit/Untitled%2016.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2017.png)
+
+### 6. 맨 밑에 아래 코드 복사 붙여넣기
+
+```
+## ggplot2 시각화
+- 다음과 같이 시각화를 작성한다.
+
+```{r}
+library(ggplot2)
+ggplot(data = iris, aes(x = Sepal.Length,
+                        y = Sepal.Width)) +
+  geom_point()
+```
+```
+
+*옆에 초록색 버튼 누르면 해당 언어 코드 입력 창이 생성 됨
+
+![Untitled](images/R_file_github_commit/Untitled%2018.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2019.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2020.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2021.png)
+
+### 8. md 파일 복사해서 blog>source>_posts>파일 안에 복붙
+
+![Untitled](images/R_file_github_commit/Untitled%2022.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2023.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2024.png)
+
+### 9. blog 파일 파이참 실행
+
+- 터미널창 git bash 에서 hexo server 실행 > hexo 블로그에 업데이트 됨.
+
+![Untitled](images/R_file_github_commit/Untitled%2025.png)
+
+![Untitled](images/R_file_github_commit/Untitled%2026.png)
+
+### 10. 업로드 하기
+
+git add .
+git commit -m “update”
+git push -u origin main
