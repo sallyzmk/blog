@@ -13,7 +13,7 @@ date: '2022-06-16 00:00'
 - [함수 및 단축키 모음집](https://www.notion.so/59561ac939654a50b8c8b2b6621f02c4)
 - [프로그램 설치](https://sallyzmk.github.io/2022/06/17/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20%EC%84%A4%EC%B9%98/)
 - [Git 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Git%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
-- [Rtools 설치 및 초기 설정](https://www.notion.so/rtools-f5db52e28d4448dc97ba6b3aa008d344)
+- [Rtools 설치 및 초기 설정](https://sallyzmk.github.io/2022/06/17/Rtools%20%EC%84%A4%EC%B9%98%20%EB%B0%8F%20%EC%B4%88%EA%B8%B0%20%EC%84%A4%EC%A0%95/)
 - [NumPy 라이브러리 설치방법](https://www.notion.so/NumPy-b76659fce0554312bb6257d5a1b97d5d)
 - [블로그 만들기](https://www.notion.so/e35b732f173d4fd4905688de4ccf5ba9)
 

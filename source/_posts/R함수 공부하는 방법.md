@@ -6,15 +6,12 @@ output:
 date: '2022-06-17 10:00'
 ---
 
-분석가 희망 : R 매우 중요, 통계
-
->t.test, anova, 회귀분석, 로지스틱회귀 : 한학기
-
->챗봇 서비스 : 설문조사 만족도 조사 →통계 분석
+# 분석가 희망 : R 매우 중요, 통계
+- t.test, anova, 회귀분석, 로지스틱회귀 : 한학기
+- 챗봇 서비스 : 설문조사 만족도 조사 →통계 분석
 
 ---
-
-분석가 희망한다면 추천
+# 분석가 희망한다면 추천
 
 [데이터 시각화 교과서]
 http://www.yes24.com/Product/Goods/87631760
@@ -26,7 +23,7 @@ http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 ---
 
-## [R함수 공부하는 방법]
+# [R함수 공부하는 방법]
 
 파이썬 라이브러리 = **R 패키지**
 
@@ -113,7 +110,7 @@ p + geom_point()
 
 #help: 도움말,  #?str: help과 같음, 도움말
 
-# ggplot(data = mtcars, aes(x = 가로축에 iris의 Sepal.Length활용, y = 세로축에 iris의 Sepal.Width활용))
+#ggplot(data = mtcars, aes(x = 가로축에 iris의 Sepal.Length활용, y = 세로축에 iris의 Sepal.Width활용))
 
 geom_point() # 그래프 종류
 
