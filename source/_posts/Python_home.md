@@ -19,3 +19,4 @@ date: '2022-06-16 02:00'
 - [혼공머 Chapter 03](https://sallyzmk.github.io/2022/06/30/python_3/)
 - [혼공머 Chapter 04](https://sallyzmk.github.io/2022/07/01/python_4/)
 - [혼공머 Chapter 05](https://sallyzmk.github.io/2022/07/01/python_5/)
+- [혼공머 Chapter 06](https://sallyzmk.github.io/2022/07/02/python_6/)
