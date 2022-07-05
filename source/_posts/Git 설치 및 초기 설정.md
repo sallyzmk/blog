@@ -5,7 +5,7 @@ output:
     keep_md: true
 date: '2022-06-17 03:00'
 ---
-
+# **Git 설치 및 초기 설정**
 - git 다운로드 웹사이트 : [https://git-scm.com/download/win](https://git-scm.com/download/win)
 - 관리자 권한으로 실행
 - 설정 별도 수정 불필요, 마지막에 Lanch Git Bash만 체크)
