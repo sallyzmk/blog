@@ -10,9 +10,9 @@ date: '2022-06-16 01:00'
 
 [제3장](https://sallyzmk.github.io/2022/06/20/R_3/)
 [제4장](https://sallyzmk.github.io/2022/06/20/R_4/)
-[제5장]()
+[제5장](https://sallyzmk.github.io/2022/06/21/R_5/)
 [제6장](https://sallyzmk.github.io/2022/06/21/R_6/)
 [제7장](https://sallyzmk.github.io/2022/06/22/R_7/)
 [제8장](https://sallyzmk.github.io/2022/06/22/R_8/)
 [제9장](https://sallyzmk.github.io/2022/06/23/R_9/)
-[제10장]()
+[제10장](https://sallyzmk.github.io/2022/06/24/R_10/)
