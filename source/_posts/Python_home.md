@@ -21,4 +21,4 @@ date: '2022-06-16 02:00'
 - [혼공머 Chapter 05](https://sallyzmk.github.io/2022/07/01/python_5/)
 - [혼공머 Chapter 06](https://sallyzmk.github.io/2022/07/05/python_6/)
 - [PyCaret_Sample](https://sallyzmk.github.io/2022/07/05/PyCaret_Sample/)
-- []
+- [시각화 복습 정리](https://sallyzmk.github.io/2022/07/06/%EC%8B%9C%EA%B0%81%ED%99%94_%EB%B3%B5%EC%8A%B5_%EC%A0%95%EB%A6%AC/)

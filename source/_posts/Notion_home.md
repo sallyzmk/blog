@@ -24,3 +24,4 @@ date: '2022-06-16 00:00'
 
 
 - [R함수 공부법](https://sallyzmk.github.io/2022/06/17/R%ED%95%A8%EC%88%98%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
+- [캐글 참여하는 방법](https://sallyzmk.github.io/2022/07/07/%EC%BA%90%EA%B8%80%20%EC%B0%B8%EC%97%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
