@@ -18,10 +18,10 @@ date: '2022-06-16 00:00'
 - [블로그 만들기](https://sallyzmk.github.io/2022/06/17/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
 - [R파일을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/R%ED%8C%8C%EC%9D%BC%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
-- [Notion을 GitHub에 업로드하는 방법](https://www.notion.so/Notion-GitHub-74f10ed31efa41c69ffef4dc2c8ecedf)
+- [Notion을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/Notion%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
 - [구글 코랩(Phython)을 GitHub에 업로드하는 방법](https://sallyzmk.github.io/2022/06/17/%EA%B5%AC%EA%B8%80%20%EC%BD%94%EB%9E%A9(Phython)%EC%9D%84%20GitHub%EC%97%90%20%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
 
 
 
-- [R함수 공부법](https://sallyzmk.github.io/2022/06/17/R%ED%95%A8%EC%88%98%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
+- [R 공부법](https://sallyzmk.github.io/2022/06/17/R%20%EA%B3%B5%EB%B6%80%EB%B2%95/)
 - [캐글 참여하는 방법](https://sallyzmk.github.io/2022/07/07/%EC%BA%90%EA%B8%80%20%EC%B0%B8%EC%97%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
