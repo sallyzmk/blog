@@ -26,3 +26,6 @@ date: '2022-06-16 00:00'
 - [R 공부법](https://sallyzmk.github.io/2022/06/17/R%20%EA%B3%B5%EB%B6%80%EB%B2%95/)
 - [캐글 참여하는 방법](https://sallyzmk.github.io/2022/07/07/%EC%BA%90%EA%B8%80%20%EC%B0%B8%EC%97%AC%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
 - [인터넷 없이 가상환경에서 파이썬 사용하는 방법](https://sallyzmk.github.io/2022/07/13/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%86%EC%9D%B4%20%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95/)
+- [WSL Tool설치](https://sallyzmk.github.io/2022/07/27/WSL%20Tool설치/)
+- [VSCode Remote WLS 연동](https://sallyzmk.github.io/2022/07/27/VSCode%20Remote%20WLS%20연동/)
+- [가상환경 설치하기](https://sallyzmk.github.io/2022/07/27/가상환경%20설치하기/)
