@@ -29,3 +29,4 @@ date: '2022-06-16 00:00'
 - [WSL Tool설치](https://sallyzmk.github.io/2022/07/27/WSL%20Tool설치/)
 - [VSCode Remote WLS 연동](https://sallyzmk.github.io/2022/07/27/VSCode%20Remote%20WLS%20연동/)
 - [리눅스 가상환경 설치하기](https://sallyzmk.github.io/2022/07/27/가상환경%20설치하기/)
+- [Airflow 강의](https://sallyzmk.github.io/2022/07/28/Airflow%20강의/)

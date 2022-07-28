@@ -2,6 +2,8 @@
 title: "VSCode Remote WLS 연동"
 date: '2022-07-27 02:00'
 ---
+# VSCode Remote WLS 연동
+
 ## [강사님 링크]([https://dschloe.github.io/settings/vscode_wsl2/](https://dschloe.github.io/settings/vscode_wsl2/))
 
 ## [환경 변수가 중요한 이유]
