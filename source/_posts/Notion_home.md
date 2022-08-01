@@ -30,3 +30,6 @@ date: '2022-06-16 00:00'
 - [VSCode Remote WLS 연동](https://sallyzmk.github.io/2022/07/27/VSCode%20Remote%20WLS%20연동/)
 - [리눅스 가상환경 설치하기](https://sallyzmk.github.io/2022/07/27/가상환경%20설치하기/)
 - [Airflow 강의](https://sallyzmk.github.io/2022/07/28/Airflow%20강의/)
+- [아파치 스파크를 이용한 데이터 처리](https://sallyzmk.github.io/2022/07/29/아파치%20스파크를%20이용한%20데이터%20처리/)
+- [PostgreSQL의 설치와 설정](https://sallyzmk.github.io/2022/07/29/PostgreSQL의%20설치와%20설정/)
+- [Heroku 초기 설정](https://sallyzmk.github.io/2022/08/01/Heroku%20초기%20설정/)

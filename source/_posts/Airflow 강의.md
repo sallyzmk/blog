@@ -1,6 +1,6 @@
 ---
 title: "Airflow 강의"
-date: '2022-07-28 01:00'
+date: '2022-07-29 01:00'
 ---
 # Airflow 강의
 
@@ -223,7 +223,7 @@ load_examples = False
 - 평소처럼 터미널을 1개 실행한 후 +버튼으로 새 터미널을 열면 된다.
 - 그럼 터미널 2개 생김!!!
 
-![Untitled](source/images/Airflow_lecture/Untitled.png)
+![Untitled](images/Airflow_lecture/Untitled.png)
 
 ```
 # 경로 확인!!! airflow에서 실행, dags에서 실행하면 안됩니다.
@@ -241,6 +241,12 @@ localhost:1234
 
 ### 아래 버튼을 활성화 시킨다.
 
-![Untitled](source/images/Airflow_lecture/Untitled%201.png)
+![Untitled](images/Airflow_lecture/Untitled%201.png)
 
-![Untitled](source/images/Airflow_lecture/Untitled%202.png)
+![Untitled](images/Airflow_lecture/Untitled%202.png)
+
+### MyC SVDAG 클릭
+
+- 실시간으로 데이터 자동 업데이트가 잘 진행되고 있는지 확인할 수 있다.
+
+![Untitled](images/Airflow_lecture/Untitled%203.png)
