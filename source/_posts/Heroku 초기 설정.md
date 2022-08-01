@@ -126,7 +126,7 @@ pip freeze > requirements.txt
 
 ```
 # -*- coding:utf-8 -*-
-from flask import Flask, render_template
+from flask import Flask
 
 app = Flask(__name__)
 
@@ -134,7 +134,6 @@ app = Flask(__name__)
 def index():
     return "Hello World!"
 ```
-
 ---
 
 ## 5. 임시 웹 생성(hexo server와 비슷)
@@ -296,7 +295,6 @@ git push heroku main
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
     <title>FlaskBlog</title>
 </head>
 <body>
@@ -304,7 +302,20 @@ git push heroku main
 </body>
 </html>
 ```
+### app.py 파일에 render_template 추가 작성한다.
+```
+# -*- coding:utf-8 -*-
+from flask import Flask, render_template
 
+app = Flask(__name__)
+
+@app.route("/")
+def index():
+    return render_template('index.html')
+
+if __name__ == "__main__":
+    app.run(port=5000)
+```
 ### 임시 서버 생성
 
 ![Untitled](images/Heroku_Initial_setting/Untitled%2040.png)
@@ -329,7 +340,7 @@ git push heroku main
 
 ---
 
-## 12.
+## 12. 텍스트 스타일 변경
 
 ### 폴더 생성(static)
 
@@ -340,9 +351,9 @@ git push heroku main
 ```
 h1 {
     border: 2px #eee solid;
-    color: brown;
+    color: blueviolet;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 ```
 
@@ -365,3 +376,5 @@ git push
 
 git push heroku main
 ```
+### 색상과 글씨가 변경되어있다.
+![Untitled](images/Heroku_Initial_setting/Untitled%2043.png)
